@@ -1,0 +1,902 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64a3496a-56ba-4c5e-840a-5ba02b84b8dc" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/micro-weather-eureka-client-feign/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/hello-world/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-collection-server/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-redis/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-city-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-collection-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-city-server/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-config-client/target/" />
+    <ignored path="$PROJECT_DIR$/initializr-start/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-report-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-report/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-data-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-basic/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-data-server/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-eureka-client-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-report-server/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-collection-eureka-feign/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-report-eureka-feign/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-eureka-client-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1948602582">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="16" />
+          <entry key="xml" value="10" />
+          <entry key="yml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="16" />
+          <entry key="XML" value="10" />
+          <entry key="YAML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="14" />
+          <entry key="java" value="402" />
+          <entry key="xml" value="31" />
+          <entry key="yml" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="402" />
+          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="XML" value="31" />
+          <entry key="YAML" value="85" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.spring.boot.run.usages" />
+      <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/src/main/java/com/tauren/cloud/weather/service/DataClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/src/main/java/com/tauren/cloud/weather/service/WeatherReportServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/DataClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/resources/templates/weather/report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="726">
+              <caret line="60" column="17" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/DataClientFallback.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="35" column="20" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#460#461#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/ReportEurekaFeignGatewayHystrixApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-city-eureka/src/main/resources/citylist.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/WeatherReportServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/micro-weather-config-client/src/main/java/com/tauren/cloud/weather/ConfigClientApplication.java" />
+        <option value="$PROJECT_DIR$/micro-weather-config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-weather-config-client/src/test/java/com/tauren/cloud/weather/HelloWorldApplicationTests.java" />
+        <option value="$PROJECT_DIR$/micro-weather-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-weather-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/src/main/java/com/tauren/cloud/weather/EurekaClientFeignHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/src/main/java/com/tauren/cloud/weather/controller/CityController.java" />
+        <option value="$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/micro-weather-eureka-client/src/main/java/com/tauren/cloud/weather/EurekaClientApplication.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/ReportEurekaFeignGatewayHystrixApplication.java" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/DataClientFallback.java" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/WeatherReportServiceImpl.java" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/DataClient.java" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/src/main/java/com/tauren/cloud/weather/service/DataClient.java" />
+        <option value="$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/src/main/java/com/tauren/cloud/weather/service/WeatherReportServiceImpl.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/java/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="E:\java\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="408" />
+    <option name="y" value="30" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="micro-weather-cloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="micro-weather-cloud" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537600705142" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\worknew\micro-weather-cloud\msa-weather-report-eureka-feign-gateway-hystrix\src\main\resources\templates\weather" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tauren.cloud.weather.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DataEurekaApplication (1)">
+    <configuration name="HelloWorldApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micro-weather-config-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauren.cloud.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tauren.cloud.weather" />
+      <option name="MAIN_CLASS_NAME" value="com.tauren.cloud.weather.HelloWorldApplicationTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="micro-weather-config-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauren.cloud.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.tauren.cloud.weather" />
+      <option name="MAIN_CLASS_NAME" value="com.tauren.cloud.weather.HelloWorldApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-basic" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.BasicApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityEurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-city-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.CityEurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8086" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-city-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.CityEurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8085" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CityServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-city-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.CityServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-collection-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.CollectionEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionEurekaFeignApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-collection-eureka-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.CollectionEurekaFeignApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8082" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionEurekaFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-collection-eureka-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.CollectionEurekaFeignApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8081" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-collection-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.CollectionServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataEurekaApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-data-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.DataEurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8084" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-data-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.DataEurekaApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8083" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-data-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.DataServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <module name="micro-weather-eureka-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.EurekaClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-config-client" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.ConfigClientApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-eureka-client-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.EurekaClientFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientFeignHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="micro-weather-eureka-client-feign-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauren.cloud.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.EurekaClientFeignHystrixApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-eureka-client-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.EurekaClientZuulApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8089" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hello-world" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.HelloWorldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.QuartzApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="micro-weather-report" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.ReportApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-report-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.ReportEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportEurekaFeignApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-report-eureka-feign" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.ReportEurekaFeignApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportEurekaFeignGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-report-eureka-feign-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.ReportEurekaFeignGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReportEurekaFeignGatewayHystrixApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false" temporary="true" nameIsGenerated="true">
+      <module name="msa-weather-report-eureka-feign-gateway-hystrix" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tauren.cloud.weather.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.ReportEurekaFeignGatewayHystrixApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8087" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherReportApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="msa-weather-report-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tauren.cloud.weather.WeatherReportApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaClientFeignApplication" />
+      <item itemvalue="Spring Boot.QuartzApplication" />
+      <item itemvalue="Spring Boot.HelloWorldApplication" />
+      <item itemvalue="Spring Boot.CollectionServerApplication" />
+      <item itemvalue="Spring Boot.RedisApplication" />
+      <item itemvalue="Spring Boot.CityEurekaApplication" />
+      <item itemvalue="Spring Boot.CityEurekaApplication (1)" />
+      <item itemvalue="Spring Boot.CollectionEurekaApplication" />
+      <item itemvalue="Spring Boot.CityServerApplication" />
+      <item itemvalue="Spring Boot.EurekaClientApplication" />
+      <item itemvalue="Spring Boot.ReportEurekaApplication" />
+      <item itemvalue="Spring Boot.ReportApplication" />
+      <item itemvalue="Spring Boot.DataEurekaApplication" />
+      <item itemvalue="Spring Boot.DataEurekaApplication (1)" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.BasicApplication" />
+      <item itemvalue="Spring Boot.DataServerApplication" />
+      <item itemvalue="Spring Boot.EurekaClientZuulApplication" />
+      <item itemvalue="Spring Boot.WeatherReportApplication" />
+      <item itemvalue="Spring Boot.CollectionEurekaFeignApplication" />
+      <item itemvalue="Spring Boot.CollectionEurekaFeignApplication (1)" />
+      <item itemvalue="Spring Boot.ReportEurekaFeignApplication" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.ReportEurekaFeignGatewayApplication" />
+      <item itemvalue="Spring Boot.EurekaClientApplication (1)" />
+      <item itemvalue="JUnit.HelloWorldApplicationTests" />
+      <item itemvalue="JUnit.HelloWorldApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.EurekaClientFeignHystrixApplication" />
+      <item itemvalue="Spring Boot.ReportEurekaFeignGatewayHystrixApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ReportEurekaFeignGatewayHystrixApplication" />
+        <item itemvalue="Spring Boot.EurekaClientFeignHystrixApplication" />
+        <item itemvalue="JUnit.HelloWorldApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.HelloWorldApplicationTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64a3496a-56ba-4c5e-840a-5ba02b84b8dc" name="Default Changelist" comment="" />
+      <created>1537411942602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537411942602</updated>
+      <workItem from="1537411945181" duration="1807000" />
+      <workItem from="1537414161368" duration="1887000" />
+      <workItem from="1537530503185" duration="3357000" />
+      <workItem from="1537597072821" duration="3681000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="HelloWorldApplicationTests_contextLoads - 2018.09.20 at 11h 04m 42s.xml">
+      <configuration name="HelloWorldApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloWorldApplicationTests - 2018.09.20 at 11h 10m 39s.xml">
+      <configuration name="HelloWorldApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloWorldApplicationTests_contextLoads - 2018.09.20 at 11h 12m 03s.xml">
+      <configuration name="HelloWorldApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloWorldApplicationTests_contextLoads - 2018.09.20 at 11h 14m 33s.xml">
+      <configuration name="HelloWorldApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloWorldApplicationTests_contextLoads - 2018.09.20 at 11h 32m 36s.xml">
+      <configuration name="HelloWorldApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloWorldApplicationTests_contextLoads - 2018.09.20 at 11h 44m 29s.xml">
+      <configuration name="HelloWorldApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloWorldApplicationTests - 2018.09.20 at 11h 46m 30s.xml">
+      <configuration name="HelloWorldApplicationTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HelloWorldApplicationTests_contextLoads - 2018.09.20 at 11h 51m 03s.xml">
+      <configuration name="HelloWorldApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10732000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3759733" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32925472" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-client-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-client/src/test/java/com/tauren/cloud/weather/controller/HelloControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-server/src/main/java/com/tauren/cloud/weather/ConfigServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="34" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-server/src/main/java/com/tauren/cloud/weather/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-client/src/main/java/com/tauren/cloud/weather/ConfigClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-config-client/src/test/java/com/tauren/cloud/weather/HelloWorldApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-client/src/main/java/com/tauren/cloud/weather/EurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
+          <folding>
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="51" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-cloud.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/controller/WeatherReportController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/src/main/java/com/tauren/cloud/weather/EurekaClientFeignHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/src/main/java/com/tauren/cloud/weather/controller/CityController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#803#804#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/micro-weather-eureka-client-feign-hystrix/src/main/java/com/tauren/cloud/weather/service/CityClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/DataClientFallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/resources/templates/weather/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="14" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="51" column="60" selection-start-line="51" selection-start-column="60" selection-end-line="51" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-city-eureka/src/main/resources/citylist.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/WeatherReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/service/DataClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="31" column="20" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/src/main/java/com/tauren/cloud/weather/service/DataClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="31" column="19" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway/src/main/java/com/tauren/cloud/weather/service/WeatherReportServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="42" selection-end-line="25" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/msa-weather-report-eureka-feign-gateway-hystrix/src/main/java/com/tauren/cloud/weather/ReportEurekaFeignGatewayHystrixApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

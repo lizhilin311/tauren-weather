@@ -1,0 +1,4 @@
+#�Ȳ���̬�ļ�
+spring:
+  thymeleaf:
+    cache: false

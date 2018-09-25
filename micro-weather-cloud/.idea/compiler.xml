@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hello-world" />
+        <module name="initializr-start" />
+        <module name="micro-weather-basic" />
+        <module name="micro-weather-config-client" />
+        <module name="micro-weather-config-server" />
+        <module name="micro-weather-eureka-client" />
+        <module name="micro-weather-eureka-client-feign" />
+        <module name="micro-weather-eureka-client-feign-hystrix" />
+        <module name="micro-weather-eureka-client-zuul" />
+        <module name="micro-weather-eureka-server" />
+        <module name="micro-weather-quartz" />
+        <module name="micro-weather-redis" />
+        <module name="micro-weather-report" />
+        <module name="msa-weather-city-eureka" />
+        <module name="msa-weather-city-server" />
+        <module name="msa-weather-collection-eureka" />
+        <module name="msa-weather-collection-eureka-feign" />
+        <module name="msa-weather-collection-server" />
+        <module name="msa-weather-data-eureka" />
+        <module name="msa-weather-data-server" />
+        <module name="msa-weather-eureka-client-zuul" />
+        <module name="msa-weather-report-eureka" />
+        <module name="msa-weather-report-eureka-feign" />
+        <module name="msa-weather-report-eureka-feign-gateway" />
+        <module name="msa-weather-report-eureka-feign-gateway-hystrix" />
+        <module name="msa-weather-report-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hello-world" target="1.8" />
+      <module name="initializr-start" target="1.8" />
+      <module name="micro-weather-basic" target="1.8" />
+      <module name="micro-weather-cloud" target="1.8" />
+      <module name="micro-weather-config-client" target="1.8" />
+      <module name="micro-weather-config-server" target="1.8" />
+      <module name="micro-weather-eureka-client" target="1.8" />
+      <module name="micro-weather-eureka-client-feign" target="1.8" />
+      <module name="micro-weather-eureka-client-feign-hystrix" target="1.8" />
+      <module name="micro-weather-eureka-client-zuul" target="1.8" />
+      <module name="micro-weather-eureka-server" target="1.8" />
+      <module name="micro-weather-quartz" target="1.8" />
+      <module name="micro-weather-redis" target="1.8" />
+      <module name="micro-weather-report" target="1.8" />
+      <module name="msa-weather-city-eureka" target="1.8" />
+      <module name="msa-weather-city-server" target="1.8" />
+      <module name="msa-weather-collection-eureka" target="1.8" />
+      <module name="msa-weather-collection-eureka-feign" target="1.8" />
+      <module name="msa-weather-collection-server" target="1.8" />
+      <module name="msa-weather-data-eureka" target="1.8" />
+      <module name="msa-weather-data-server" target="1.8" />
+      <module name="msa-weather-eureka-client-zuul" target="1.8" />
+      <module name="msa-weather-report-eureka" target="1.8" />
+      <module name="msa-weather-report-eureka-feign" target="1.8" />
+      <module name="msa-weather-report-eureka-feign-gateway" target="1.8" />
+      <module name="msa-weather-report-eureka-feign-gateway-hystrix" target="1.8" />
+      <module name="msa-weather-report-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
